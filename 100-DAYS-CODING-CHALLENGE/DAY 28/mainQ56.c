@@ -11,7 +11,6 @@ int main()
   printf("Enter elements: ");
   for (int i = 0; i < n; i++) 
   {
-    printf("Element %d: ", i + 1);
     scanf("%d", &arr[i]);
   }
   printf("Elements: ");
