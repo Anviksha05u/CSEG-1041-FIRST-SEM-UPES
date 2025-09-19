@@ -10,7 +10,7 @@ int main()
 {
     int matrix1[3][3], matrix2[3][3]; //Declare two 3×3 matrices
     int sum[3][3], diff[3][3], prod[3][3]; //Matrices to store results
-    int i, j, k; //Loop counters
+    int i, j, k; //Variable declaration for loop counters
     //Input elements for the first matrix
     printf("Enter elements of the first matrix: \n");
     for (i = 0; i < 3; i++)

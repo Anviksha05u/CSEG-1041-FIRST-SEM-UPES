@@ -29,34 +29,34 @@ int main()
         switch (i)
         {
             case 0: 
-            printf("Digit 0 occurs %d times\n", freq[i]);
+            printf("Frequency of 0 is %d\n", freq[i]);
             break;
             case 1: 
-            printf("Digit 1 occurs %d times\n", freq[i]);
+            printf("Frequency of 1 is %d\n", freq[i]);
             break;
             case 2: 
-            printf("Digit 2 occurs %d times\n", freq[i]);
+            printf("Frequency of 2 is %d\n", freq[i]);
             break;
             case 3: 
-            printf("Digit 3 occurs %d times\n", freq[i]);
+            printf("Frequency of 3 is %d\n", freq[i]);
             break;
             case 4: 
-            printf("Digit 4 occurs %d times\n", freq[i]);
+            printf("Frequency of 4 is %d\n", freq[i]);
             break;
             case 5: 
-            printf("Digit 5 occurs %d times\n", freq[i]);
+            printf("Frequency of 5 is %d\n", freq[i]);
             break;
             case 6: 
-            printf("Digit 6 occurs %d times\n", freq[i]);
+            printf("Frequency of 6 is %d\n", freq[i]);
             break;
             case 7: 
-            printf("Digit 7 occurs %d times\n", freq[i]);
+            printf("Frequency of 7 is %d\n", freq[i]);
             break;
             case 8: 
-            printf("Digit 8 occurs %d times\n", freq[i]);
+            printf("Frequency of 8 is %d\n", freq[i]);
             break;
             case 9: 
-            printf("Digit 9 occurs %d times\n", freq[i]);
+            printf("Frequency of 9 is %d\n", freq[i]);
             break;
             default: 
             printf("Invalid digit!\n");

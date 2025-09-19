@@ -4,7 +4,7 @@
 int main()
 {
     int matrix[3][3], transpose[3][3]; //Declare the original and transpose matrices
-    int i, j; //Loop counters
+    int i, j; //Variable declaration for loop counters
     //Input elements for the original matrix
     printf("Enter elements of the original matrix: \n");
     for (i = 0; i < 3; i++)

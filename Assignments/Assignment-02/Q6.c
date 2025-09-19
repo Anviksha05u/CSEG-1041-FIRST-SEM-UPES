@@ -4,7 +4,7 @@
 int main()
 {
     int matrix[4][4]; //Declare a 4 × 4 matrix
-    int i, j; //Loop counters
+    int i, j; //Variable declaration for loop counters
     int maxRow, maxCol; //Variables to store maximum values
     //Input elements of the matrix
     printf("Enter elements of the matrix: \n");
