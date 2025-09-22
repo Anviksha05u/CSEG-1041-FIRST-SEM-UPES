@@ -25,12 +25,6 @@ int main()
       }
     }
   }
-  printf("Sorted array: ");
-  for (i = 0; i < size; i++) 
-  {
-    printf("%d ", arr[i]);
-  }
-  printf("\n");
   printf("Enter the element to search: ");
   scanf("%d", &s);
   low = 0;
@@ -53,7 +47,7 @@ int main()
     }
   }
   if (found)
-  printf("%d found at Index %d\n", key, mid);
+  printf("%d found at Index %d\n", s, mid);
   else
   printf("-1");
   return 0;
