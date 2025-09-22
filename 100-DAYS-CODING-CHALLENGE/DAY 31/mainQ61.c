@@ -23,9 +23,8 @@ int main()
     }
   }
   if (found)
-  printf("%d found at position %d \n", s, i + 1);
+  printf("%d found at index %d \n", s, i);
   else
-  printf("%d not found in the array.\n", s);
+  printf("-1", s);
   return 0;
 }
-
