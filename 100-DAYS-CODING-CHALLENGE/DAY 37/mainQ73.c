@@ -30,7 +30,7 @@ int main()
     printf("\n");
   }
   printf("Sum of each row: \n");
-  for (i = 0; i < rows; i++) 
+  for (i = 0; i < r; i++) 
   {
     printf("Row %d: %d\n", i + 1, rowSum[i]);
   }
