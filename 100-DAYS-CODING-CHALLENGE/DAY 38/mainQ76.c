@@ -9,7 +9,7 @@ int main()
     scanf("%d", &r);
     printf("Enter number of columns: ");
     scanf("%d", &c);
-    int matrix1[r][c]; 
+    int matrix[r][c]; 
     printf("Enter elements of the matrix: \n");
     for (i = 0; i < r; i++)
     {

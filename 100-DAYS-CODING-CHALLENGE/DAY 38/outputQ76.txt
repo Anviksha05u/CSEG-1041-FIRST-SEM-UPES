@@ -1,0 +1,19 @@
+Enter number of rows: 2
+Enter number of columns: 2
+Enter elements of the matrix: 
+1 2  2 1
+
+Matrix: 
+1 2 
+2 1 
+true
+
+Enter number of rows: 2
+Enter number of columns: 2
+Enter elements of the matrix: 
+1 0 2 1
+
+Matrix:
+1 0
+2 1
+false
