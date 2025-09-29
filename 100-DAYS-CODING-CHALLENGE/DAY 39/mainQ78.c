@@ -15,7 +15,7 @@ int main()
             scanf("%d", &matrix[i][j]);
         }
     }
-    printf("Matrix: ");
+    printf("Matrix: \n");
     for (i = 0; i < s; i++) 
     {
         for (j = 0; j < s; j++) 
