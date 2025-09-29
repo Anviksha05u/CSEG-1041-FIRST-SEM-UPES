@@ -27,26 +27,29 @@ int main()
         printf("\n");
     }
     printf("Diagonal traversal: ");
-    for (k = 0; k < r; k++) 
+    for (int sum = 0; sum <= r + c - 2; sum++) 
     {
-        i = k;
-        j = 0;
-        while (i >= 0 && j < c) 
-        {
-            printf("%d ", matrix[i][j]);
-            i--;
-            j++;
-        }
-    }
-    for (k = 1; k < c; k++) 
-    {
-        i = r - 1;
-        j = k;
-        while (i >= 0 && j < c) 
-        {
-            printf("%d ", matrix[i][j]);
-            i--;
-            j++;
+        if (sum % 2 == 0) 
+        {  
+            for (i = sum; i >= 0; i--) 
+            {
+                j = sum - i;
+                if (i < r && j < c) 
+                {
+                    printf("%d ", matrix[i][j]);
+                }
+            }
+        } 
+        else 
+        {  
+            for (i = 0; i <= sum; i++) 
+            {
+                j = sum - i;
+                if (i < r && j < c) 
+                {
+                    printf("%d ", matrix[i][j]);
+                }
+            }
         }
     }
     printf("\n");
