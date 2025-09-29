@@ -1,0 +1,5 @@
+Enter a string: Hello
+Character count: 5
+
+Enter a string:  
+Character count: 1
