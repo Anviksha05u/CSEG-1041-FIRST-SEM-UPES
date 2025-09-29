@@ -4,11 +4,11 @@
 int main()
 {
     int r, c, i, j;
-    printf("Enter number of rows: ");
+    printf("Enter number of rows of first matrix: ");
     scanf("%d", &r);
-    printf("Enter number of columns: ");
+    printf("Enter number of columns of first matrix: ");
     scanf("%d", &c);
-    int matrix1[r][c], matrix2[r][c], sum[r][c];
+    int matrix1[r][c]; 
     printf("Enter elements of the first matrix: \n");
     for (i = 0; i < r; i++)
     {
@@ -26,7 +26,12 @@ int main()
         }
         printf("\n");
     }
+    printf("Enter number of rows of second matrix: ");
+    scanf("%d", &r);
+    printf("Enter number of columns of second matrix: ");
+    scanf("%d", &c);
     printf("Enter elements of the second matrix: \n");
+    int matrix2[r][c];
     for (i = 0; i < r; i++)
     {
         for (j = 0; j < c; j++)
@@ -43,6 +48,7 @@ int main()
         }
         printf("\n");
     }
+    int sum[r][c];
     for (i = 0; i < r; i++)
     {
         for (j = 0; j < c; j++)
