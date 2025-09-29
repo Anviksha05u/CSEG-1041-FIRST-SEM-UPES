@@ -1,0 +1,19 @@
+Enter number of rows: 3
+Enter number of columns: 3
+Enter elements of the matrix: 1 2 3 4 5 6 7 8 1
+
+Matrix: 
+1 2 3 
+4 5 6 
+7 8 1 
+false
+
+Enter number of rows: 3
+Enter number of columns: 3
+Enter elements of the matrix: 1 2 3 4 5 6 7 8 9
+
+Matrix:
+1 2 3
+4 5 6
+7 8 9
+true
