@@ -5,7 +5,7 @@ int main()
 {
     char str[1000];
     int i = 0;
-    printf("Enter a lowercase string: ");
+    printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
     while (str[i] != '\0') 
     {
