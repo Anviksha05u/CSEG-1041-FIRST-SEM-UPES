@@ -17,7 +17,7 @@ void reverse(char str[])
 int main() 
 {
     char str[100];
-    printf("enter the string: ");
+    printf("Enter the string: ");
     scanf("%s",str);
     reverse(str);// Call the reverse function
     printf("The reversed string %s\n",str);
