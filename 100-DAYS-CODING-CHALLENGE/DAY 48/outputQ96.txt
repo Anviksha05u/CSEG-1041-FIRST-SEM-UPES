@@ -1,0 +1,2 @@
+Enter a sentence: i love coding
+Reversed words: i evol gnidoc

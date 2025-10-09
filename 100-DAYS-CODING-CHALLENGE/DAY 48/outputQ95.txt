@@ -1,0 +1,7 @@
+Enter first string: abcde
+Enter second string: deabc
+Rotation
+
+Enter first string: abc
+Enter second string: acb
+Not a rotation
