@@ -1,0 +1,5 @@
+Enter a string: stress
+First repeating lowercase alphabet: s
+
+Enter a string: pressure
+First repeating lowercase alphabet: s
