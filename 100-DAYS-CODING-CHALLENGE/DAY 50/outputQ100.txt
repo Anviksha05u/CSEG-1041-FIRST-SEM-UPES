@@ -1,0 +1,2 @@
+Enter a string: abc
+a, ab, abc, b, bc, c
