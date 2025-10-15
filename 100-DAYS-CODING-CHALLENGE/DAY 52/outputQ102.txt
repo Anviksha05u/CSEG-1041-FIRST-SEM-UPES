@@ -1,0 +1,19 @@
+Enter number of elements: 7
+Enter sorted array elements: 1 2 8 10 11 12 19
+Enter an integer: 5
+2
+
+Enter number of elements: 7
+Enter sorted array elements: 1 2 8 10 11 12 19
+Enter an integer: 20
+-1
+
+Enter number of elements: 7
+Enter sorted array elements: 1 2 8 10 11 12 19
+Enter an integer: 0
+0
+
+Enter number of elements: 7
+Enter sorted array elements: 1 2 8 10 11 12 19
+Enter an integer: 2
+1
