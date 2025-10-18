@@ -5,3 +5,36 @@ N.B:
 - Do not use Stack, use brute force approach (nested loop) to solve.
 */
 
+#include <stdio.h>
+int main() 
+{
+    int arr[1000], n, i, j;
+    printf("Enter number of elements:");
+    scanf("%d", &n);
+    printf("Array elements:");
+    for (i = 0; i < n; i++) 
+    {
+        scanf("%d", &arr[i]);
+    }
+    for (i = 0; i < n; i++) 
+    {
+        for (j = i - 1; j >= 0; j--) 
+        {
+            if (arr[j] > arr[i]) 
+            {
+                printf("%d", arr[j]);
+                break;
+            }
+        }
+        if (j < 0) 
+        {
+            printf("-1");
+        }
+        if (i != n - 1) 
+        {
+            printf(", ");
+        }
+    }
+    printf("\n");
+    return 0;
+}
