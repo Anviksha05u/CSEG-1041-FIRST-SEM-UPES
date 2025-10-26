@@ -1,7 +1,0 @@
-Enter number of elements: 4
-Enter array elements: 1 2 3 4
-24, 12, 8, 6
-
-Enter number of elements: 5
-Enter array elements: -1 1 0 -3 3
-0, 0, 9, 0, 0
