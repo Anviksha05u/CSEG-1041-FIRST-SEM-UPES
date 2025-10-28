@@ -1,0 +1,20 @@
+Enter number of elements: 7
+Enter sorted array elements: 1 2 8 10 11 12 19
+Enter x: 5
+Index 2
+
+Enter number of elements: 7
+Enter sorted array elements: 1 2 8 10 11 12 19
+Enter x: 20
+-1
+
+Enter number of elements: 8
+Enter sorted array elements: 1 1 2 8 10 11 12 19
+Enter x: 0
+Index 0
+Multiple occurrences found. First occurrence index is printed.
+
+Enter number of elements: 8
+Enter sorted array elements: 1 1 2 8 10 11 12 19
+Enter x: 2
+Index 2
