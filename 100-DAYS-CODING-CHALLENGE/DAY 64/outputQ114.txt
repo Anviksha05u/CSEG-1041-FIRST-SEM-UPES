@@ -1,0 +1,8 @@
+Enter a string: abcabcbb
+Length of longest substring without repeating characters: 3
+
+Enter a string: bbbbb
+Length of longest substring without repeating characters: 1
+
+Enter a string: pwwkew
+Length of longest substring without repeating characters: 3
