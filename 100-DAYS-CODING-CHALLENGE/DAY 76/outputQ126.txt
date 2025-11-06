@@ -1,0 +1,8 @@
+Enter the filename to open: sample.txt
+
+File opened successfully.
+welcome to c programming
+PS C:\Users\Dell\OneDrive\Documents\GitHub\CSEG-1041-FIRST-SEM-UPES\100-DAYS-CODING-CHALLENGE\DAY 76> gcc mainQ126.c -o mainQ126
+PS C:\Users\Dell\OneDrive\Documents\GitHub\CSEG-1041-FIRST-SEM-UPES\100-DAYS-CODING-CHALLENGE\DAY 76> ./mainQ126
+Enter the filename to open: nofile.txt
+Error: File does not exist!.
