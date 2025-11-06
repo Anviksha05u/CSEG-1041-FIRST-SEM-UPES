@@ -1,0 +1,8 @@
+Enter a string: I am trying to build logic
+Sentence case: I Am Trying To Build Logic
+
+Enter a string: The classes are supposed to start early.
+Sentence case: The Classes Are Supposed To Start Early.
+
+Enter a string: We are going to look at 26 duffferent cases.
+Sentence case: We Are Going To Look At 26 Duffferent Cases.
