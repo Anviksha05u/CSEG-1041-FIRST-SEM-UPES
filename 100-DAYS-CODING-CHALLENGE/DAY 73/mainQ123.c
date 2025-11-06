@@ -15,7 +15,7 @@ int main()
         printf("Error creating file!\n");
         return 1;
     }
-    fprintf(fp, "Hello World\nThis is C programming\n");
+    fprintf(fp, "\nHello World\nThis is C programming\n");
     fclose(fp);
     //Read and count
     fp = fopen("info.txt", "r");
