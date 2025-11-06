@@ -1,0 +1,11 @@
+Enter value of n: 4
+Enter elements (from 0 to 4, except one): 0 3 2 4
+Missing number is: 1
+
+Enter value of n: 3
+Enter elements (from 0 to 3, except one): 1 2 3
+Missing number is: 0
+
+Enter value of n: 5
+Enter elements (from 0 to 5, except one): 0 4 3 1 5
+Missing number is: 2
