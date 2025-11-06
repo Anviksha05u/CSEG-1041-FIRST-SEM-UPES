@@ -1,0 +1,14 @@
+Enter number of elements: 4
+Enter elements: 2 7 11 15
+Enter target value: 9
+0 1
+
+Enter number of elements: 3 
+Enter elements: 3 2 4
+Enter target value: 6
+1 2
+
+Enter number of elements: 2
+Enter elements: 3 3
+Enter target value: 6
+0 1
