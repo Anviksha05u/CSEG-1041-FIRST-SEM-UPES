@@ -1,0 +1,17 @@
+Enter size of first sorted array: 4
+Enter elements: 2 7 11 15
+Enter size of second sorted array: 3
+Enter sorted elements: 4 8 10
+Merged sorted array: 2 4 7 8 10 11 15 
+
+Enter size of first sorted array: 3
+Enter elements: 1 2 7
+Enter size of second sorted array: 3
+Enter sorted elements: 9 10 17
+Merged sorted array: 1 2 7 9 10 17 
+
+Enter size of first sorted array: 3
+Enter elements: -10 -2 7
+Enter size of second sorted array: 3
+Enter sorted elements: -3 -1 7
+Merged sorted array: -10 -3 -2 -1 7 7 
