@@ -1,0 +1,7 @@
+Enter your name: Rahul
+Enter your age: 23
+Data successfully saved to info.txt
+
+Reading contents of info.txt:
+Name: Rahul
+Age: 23
