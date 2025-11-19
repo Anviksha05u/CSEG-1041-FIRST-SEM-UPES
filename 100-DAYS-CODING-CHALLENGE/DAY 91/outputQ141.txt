@@ -1,0 +1,6 @@
+Enter name: Asha
+Enter roll number: 109
+Enter marks: 90
+Name: Asha
+Roll No: 109
+Marks: 90.00
