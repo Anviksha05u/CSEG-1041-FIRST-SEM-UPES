@@ -1,0 +1,20 @@
+Enter number of students: 3
+Enter details for student 1:
+Name: Rvi
+Roll No: 101
+Marks: 95
+
+Enter details for student 2:
+Name: Sita
+Roll No: 102
+Marks: 85
+
+Enter details for student 3:
+Name: Aman
+Roll No: 103
+Marks: 88
+
+Student with Highest Marks:
+Name: Rvi
+Roll No: 101
+Marks: 95.00
