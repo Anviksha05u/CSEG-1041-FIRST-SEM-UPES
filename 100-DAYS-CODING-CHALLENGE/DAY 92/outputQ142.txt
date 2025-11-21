@@ -1,0 +1,45 @@
+Enter details for student 1:
+Name: A     
+Roll No: 1
+Marks: 10
+
+Enter details for student 2:
+Name: B
+Roll No: 2
+Marks: 20
+
+Enter details for student 3:
+Name: C
+Roll No: 3
+Marks: 30
+
+Enter details for student 4:
+Name: D
+Roll No: 4
+Marks: 40
+
+Enter details for student 5:
+Name: E
+Roll No: 5
+Marks: 50
+
+Student 1:
+Name: A
+Roll No: 1
+Marks: 10.00
+Student 2:
+Name: B
+Roll No: 2
+Marks: 20.00
+Student 3:
+Name: C
+Roll No: 3
+Marks: 30.00
+Student 4:
+Name: D
+Roll No: 4
+Marks: 40.00
+Student 5:
+Name: E
+Roll No: 5
+Marks: 50.00
