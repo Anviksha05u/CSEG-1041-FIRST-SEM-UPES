@@ -1,0 +1,6 @@
+Enter name: Neha
+Enter roll number: 104
+Enter marks: 92
+Name: Neha
+Roll No: 104
+Marks: 92.00
