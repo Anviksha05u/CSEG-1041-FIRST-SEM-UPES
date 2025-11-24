@@ -3,6 +3,7 @@
 int main()
 {
     FILE *fptr;
+    char s[100];
     fptr = fopen ("file.txt", "r");
     if (fptr == NULL)
     {
@@ -10,7 +11,6 @@ int main()
         return 1;
     }
     printf("File opened successfully");
-    char s[100];
     while (fgets(s, 100, fptr) != NULL)
     {
         printf("%s", s);
