@@ -1,0 +1,21 @@
+Enter number of students: 3
+Enter details for student 1:
+Name: Riya 
+Roll No: 101
+Marks: 89
+
+Enter details for student 2:
+Name: Karan
+Roll No: 102
+Marks: 96
+
+Enter details for student 3:
+Name: Meena
+Roll No: 103
+Marks: 92
+
+
+Top Student:
+Name: Karan
+Roll No: 102
+Marks: 96.00
