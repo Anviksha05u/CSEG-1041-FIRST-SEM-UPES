@@ -1,0 +1,8 @@
+Enter employee name: Raj
+Enter employee ID: 11
+Enter joining date (dd mm yyyy): 12 05 2020
+
+Employee Details: 
+Name: Raj
+Employee ID: 11
+Joining Date: 12-05-2020
