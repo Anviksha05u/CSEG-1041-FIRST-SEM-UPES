@@ -1,0 +1,8 @@
+Enter employee name: Anviksha
+Enter employee ID: 590026976
+Enter salary: 0\
+
+Employee Details: 
+Name: Anviksha
+Employee ID: 590026976
+Salary: 0.00
