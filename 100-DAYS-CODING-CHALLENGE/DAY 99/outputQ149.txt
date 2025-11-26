@@ -1,0 +1,8 @@
+Enter student name: Tina
+Enter roll number: 105
+Enter marks: 88
+
+Student Details:
+Name: Tina
+Roll No.: 105
+Marks: 88.00
