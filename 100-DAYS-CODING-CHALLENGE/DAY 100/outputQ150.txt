@@ -1,0 +1,8 @@
+Enter student name: John
+Enter roll number: 106
+Enter marks: 91
+
+Student Details: 
+Name: John
+Roll No: 106
+Marks: 91.00
